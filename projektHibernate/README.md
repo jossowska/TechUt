@@ -1,1 +1,1 @@
-Projekt: Hibernate Wardrobes
+Projekt Hibernate
