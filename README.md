@@ -1,4 +1,3 @@
-Technologie utrwalania dla języka Java
+Zadania realizowane w ramach ćwiczeń laboratoryjnych z przedmoitu :
 
-Jagoda Ossowska
- 250995
+<h3> Technologie utrwalania dla języka Java </h3>
